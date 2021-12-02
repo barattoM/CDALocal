@@ -28,6 +28,7 @@ namespace GestionStocks.Controllers
             var config = new MapperConfiguration(cfg =>
             {
                 cfg.AddProfile<ArticlesProfiles>();
+                cfg.AddProfile<CategoriesProfiles>();
             });
             _mapper = config.CreateMapper();
         }
@@ -39,6 +40,23 @@ namespace GestionStocks.Controllers
         {
             IEnumerable<Article> listeArticles = _service.GetAllArticles();
             return _mapper.Map<IEnumerable<ArticlesDTO>>(listeArticles);
+        }
+
+        [HttpGet]
+        public IEnumerable<ArticlesDTOAvecLibelleCategorie> GetAllArticlesAvecLibelleCateg()
+        {
+            IEnumerable<Article> listeArticles = _service.GetAllArticles();
+            List<ArticlesDTOAvecLibelleCategorie> liste = new List<ArticlesDTOAvecLibelleCategorie>();
+            foreach (Article article in listeArticles)
+            {
+                liste.Add(new ArticlesDTOAvecLibelleCategorie
+                {
+                    LibelleArticle = article.LibelleArticle,
+                    QuantiteStockee = article.QuantiteStockee,
+                    LibelleCategorie = article.Categorie.LibelleCategorie
+                });
+            }
+            return liste;
         }
 
         //GET api/Articles/{i}

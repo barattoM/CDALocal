@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace GestionStocks.Data.Dtos
 {
-    class CategoriesDTO
+    public class CategoriesDTO
     {
         public string LibelleCategorie { get; set; }
     }
 
-    class CategoriesDTOIn
+    public class CategoriesDTOIn
     {
         public string LibelleCategorie { get; set; }
         public int IdTypeProduit { get; set; }

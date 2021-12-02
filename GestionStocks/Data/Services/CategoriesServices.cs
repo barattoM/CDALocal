@@ -47,6 +47,11 @@ namespace GestionStocks.Data.Services
             return _context.Categories.FirstOrDefault(obj => obj.IdCategorie == id);
         }
 
+        public Categorie GetCategorieByLibelle(string name)
+        {
+            return _context.Categories.FirstOrDefault(obj => obj.LibelleCategorie == name);
+        }
+
         public void UpdateCategorie(Categorie obj)
         {
             _context.SaveChanges();

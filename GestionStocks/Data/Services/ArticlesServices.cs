@@ -1,4 +1,5 @@
 ﻿using GestionStocks.Data.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,7 +40,7 @@ namespace GestionStocks.Data.Services
 
         public IEnumerable<Article> GetAllArticles()
         {
-            return _context.Articles.ToList();
+            return _context.Articles.Include("Categorie").ToList();
         }
         
         public Article GetArticleById(int id)

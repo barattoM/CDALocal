@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GestionStocks.Data.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,10 +13,25 @@ namespace GestionStocks.Data.Dtos
         public int QuantiteStockee { get; set; }
     }
 
+    public class ArticlesDTOAvecLibelleCategorie
+    {
+        public string LibelleArticle { get; set; }
+        public int QuantiteStockee { get; set; }
+        public string LibelleCategorie { get; set; }
+    }
+
+    public class ArticlesDTOAvecCategorie
+    {
+        public string LibelleArticle { get; set; }
+        public int QuantiteStockee { get; set; }
+        public Categorie Categorie { get; set; }
+    }
+
     public class ArticlesDTOIn
     {
         public string LibelleArticle { get; set; }
         public int QuantiteStockee { get; set; }
+        public int IdCategorie { get; set; }
     }
 
 }

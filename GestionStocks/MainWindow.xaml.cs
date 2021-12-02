@@ -33,12 +33,13 @@ namespace GestionStocks
             InitializeComponent();
             _context = new MyDbContext();
             _articlesController = new ArticlesController(_context);
-            ListeArticles.ItemsSource = _articlesController.GetAllArticles();
+            ListeArticles.ItemsSource = _articlesController.GetAllArticlesAvecLibelleCateg();
+
         }
 
         private void btnActions_Click(object sender, RoutedEventArgs e)
         {
-            ArticlesDTO articleDTO = (ArticlesDTO)ListeArticles.SelectedItem;
+            ArticlesDTOAvecLibelleCategorie articleDTO = (ArticlesDTOAvecLibelleCategorie)ListeArticles.SelectedItem;
             string nom = (string)((Button)sender).Content;
             Article article = new Article();
             if (articleDTO != null)
@@ -57,6 +58,17 @@ namespace GestionStocks
                 actions.ShowDialog();
                 this.Opacity = 1;
             }
+        }
+
+        public void AjouterArticle(ArticlesDTOIn article)
+        {
+            _articlesController.CreateArticle(article);
+            ActualiserTableau();
+        }
+
+        private void ActualiserTableau()
+        {
+            ListeArticles.Items.Refresh();
         }
     }
 }

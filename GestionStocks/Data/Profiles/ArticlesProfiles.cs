@@ -17,6 +17,8 @@ namespace GestionStocks.Data.Profiles
             CreateMap<ArticlesDTO, Article>();
             CreateMap<Article, ArticlesDTOIn>();
             CreateMap<ArticlesDTOIn, Article>();
+            CreateMap<Article, ArticlesDTOAvecLibelleCategorie>();
+            CreateMap<ArticlesDTOAvecLibelleCategorie, Article>();   
         }
         
     }

@@ -64,6 +64,16 @@ namespace GestionStocks.Controllers
             return null;
         }
 
+        public Categorie GetCategorieByLibelle(string name)
+        {
+            Categorie commandItem = _service.GetCategorieByLibelle(name);
+            if (commandItem != null)
+            {
+                return commandItem;
+            }
+            return null;
+        }
+
         //POST api/Categories
         [HttpPost]
         public ActionResult<CategoriesDTO> CreateCategorie(CategoriesDTOIn objIn)

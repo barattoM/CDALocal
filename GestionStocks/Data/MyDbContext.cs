@@ -51,7 +51,7 @@ namespace GestionStocks.Data
 
                 entity.Property(e => e.QuantiteStockee).HasColumnType("int(11)");
 
-                entity.HasOne(d => d.IdCategorieNavigation)
+                entity.HasOne(d => d.Categorie)
                     .WithMany(p => p.Articles)
                     .HasForeignKey(d => d.IdCategorie)
                     .OnDelete(DeleteBehavior.ClientSetNull)

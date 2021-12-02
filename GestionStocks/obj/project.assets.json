@@ -2066,11 +2066,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\59011-07-02\\Desktop\\GestionStocks\\GestionStocks.csproj",
+      "projectUniqueName": "C:\\Users\\59011-07-02\\Documents\\Local\\CDALocal\\GestionStocks\\GestionStocks.csproj",
       "projectName": "GestionStocks",
-      "projectPath": "C:\\Users\\59011-07-02\\Desktop\\GestionStocks\\GestionStocks.csproj",
+      "projectPath": "C:\\Users\\59011-07-02\\Documents\\Local\\CDALocal\\GestionStocks\\GestionStocks.csproj",
       "packagesPath": "C:\\Users\\59011-07-02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\59011-07-02\\Desktop\\GestionStocks\\obj\\",
+      "outputPath": "C:\\Users\\59011-07-02\\Documents\\Local\\CDALocal\\GestionStocks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
