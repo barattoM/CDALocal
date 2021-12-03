@@ -26,9 +26,14 @@
         <Button x:Name="btn_ajouterArticle" Content="Ajouter" Grid.Column="1" Margin="0,15,44,0" Grid.RowSpan="2" Grid.ColumnSpan="2" Click="btnActions_Click"/>
         <Button x:Name="btn_modifierArticle" Content="Modifier" Grid.Column="2" Margin="44,15,44,0" Grid.RowSpan="2" Grid.ColumnSpan="3" Click="btnActions_Click"/>
         <Button x:Name="btn_supprimerArticle" Content="Supprimer" Grid.Column="4" Margin="44,15,0,0" Grid.RowSpan="2" Grid.ColumnSpan="2" Click="btnActions_Click"/>
-        <DataGrid x:Name="ListeArticles" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="5">
-            
+        <DataGrid x:Name="ListeArticles" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="5" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id de l'article" Binding="{Binding IdArticle}" Visibility="Hidden"></DataGridTextColumn>
+                <DataGridTextColumn Header="Libelle de l'article" Binding="{Binding LibelleArticle}" Width="2*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Quantitée" Binding="{Binding QuantiteStockee}"  Width="1*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Id de la catégorie" Binding="{Binding IdCategorie}" Visibility="Hidden"></DataGridTextColumn>
+                <DataGridTextColumn Header="Categorie" Binding="{Binding LibelleCategorie}"  Width="2*"></DataGridTextColumn>
+            </DataGrid.Columns>
         </DataGrid>
-
     </Grid>
 </Window>

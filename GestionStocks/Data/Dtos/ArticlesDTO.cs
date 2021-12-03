@@ -15,8 +15,10 @@ namespace GestionStocks.Data.Dtos
 
     public class ArticlesDTOAvecLibelleCategorie
     {
+        public int IdArticle { get; set; }
         public string LibelleArticle { get; set; }
         public int QuantiteStockee { get; set; }
+        public int IdCategorie { get; set; }
         public string LibelleCategorie { get; set; }
     }
 

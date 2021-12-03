@@ -26,9 +26,9 @@ namespace GestionStocks
     public partial class FormulaireArticle : Window
     {
         MainWindow Window;
-        Article Article;
+        ArticlesDTOAvecLibelleCategorie Article;
         CategoriesController CategorieController;
-        public FormulaireArticle(object sender, MainWindow window, Article article, MyDbContext _context)
+        public FormulaireArticle(object sender, MainWindow window, ArticlesDTOAvecLibelleCategorie article, MyDbContext _context)
         {
             InitializeComponent();
             this.Article = article;
@@ -42,7 +42,11 @@ namespace GestionStocks
         {
             string nom = (string)((Button)sender).Content;
             labTitreFormulaire.Content = nom + " un article";
-            cbCategorie.ItemsSource = CategorieController.GetAllCategoriesName();
+
+
+            cbCategorie.ItemsSource = CategorieController.GetAllCategoriesModel();
+            cbCategorie.DisplayMemberPath = "LibelleCategorie"; //Valeur a afficher dans la combobox
+            cbCategorie.SelectedValuePath = "IdCategorie"; // Valeur de la combobox
             int idComboboxItem;
             switch (nom)
             {
@@ -86,7 +90,7 @@ namespace GestionStocks
             {
                 LibelleArticle = txbLibelle.Text,
                 QuantiteStockee = int.Parse(txbQuantite.Text),
-                IdCategorie= CategorieController.GetCategorieByLibelle(cbCategorie.SelectedItem.ToString()).IdCategorie
+                IdCategorie = (int)cbCategorie.SelectedValue
             };
             this.Window.AjouterArticle(article);
             Retour();

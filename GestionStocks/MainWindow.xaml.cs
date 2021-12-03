@@ -39,14 +39,9 @@ namespace GestionStocks
 
         private void btnActions_Click(object sender, RoutedEventArgs e)
         {
-            ArticlesDTOAvecLibelleCategorie articleDTO = (ArticlesDTOAvecLibelleCategorie)ListeArticles.SelectedItem;
+            ArticlesDTOAvecLibelleCategorie article = (ArticlesDTOAvecLibelleCategorie)ListeArticles.SelectedItem;
             string nom = (string)((Button)sender).Content;
-            Article article = new Article();
-            if (articleDTO != null)
-            {
-                article = _articlesController.GetArticleByLibelle(articleDTO.LibelleArticle);
-            }
-            if (articleDTO == null && (nom == "Modifier" || nom == "Supprimer"))
+            if (article == null && (nom == "Modifier" || nom == "Supprimer"))
             {
                 MessageBox.Show("Pas de sélection");
             }

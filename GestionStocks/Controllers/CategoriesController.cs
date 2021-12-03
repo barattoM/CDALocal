@@ -40,6 +40,12 @@ namespace GestionStocks.Controllers
             return _mapper.Map<IEnumerable<CategoriesDTO>>(listeCategories);
         }
 
+        public IEnumerable<Categorie> GetAllCategoriesModel()
+        {
+            IEnumerable<Categorie> listeCategories = _service.GetAllCategories();
+            return listeCategories;
+        }
+
         [HttpGet]
         public IEnumerable<string> GetAllCategoriesName()
         {

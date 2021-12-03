@@ -46,17 +46,7 @@ namespace GestionStocks.Controllers
         public IEnumerable<ArticlesDTOAvecLibelleCategorie> GetAllArticlesAvecLibelleCateg()
         {
             IEnumerable<Article> listeArticles = _service.GetAllArticles();
-            List<ArticlesDTOAvecLibelleCategorie> liste = new List<ArticlesDTOAvecLibelleCategorie>();
-            foreach (Article article in listeArticles)
-            {
-                liste.Add(new ArticlesDTOAvecLibelleCategorie
-                {
-                    LibelleArticle = article.LibelleArticle,
-                    QuantiteStockee = article.QuantiteStockee,
-                    LibelleCategorie = article.Categorie.LibelleCategorie
-                });
-            }
-            return liste;
+            return _mapper.Map<IEnumerable<ArticlesDTOAvecLibelleCategorie>>(listeArticles);
         }
 
         //GET api/Articles/{i}
