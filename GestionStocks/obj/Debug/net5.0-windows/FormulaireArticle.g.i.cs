@@ -101,7 +101,7 @@ namespace GestionStocks {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GestionStocks;component/formulairearticle.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GestionStocks;V1.0.0.0;component/formulairearticle.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\FormulaireArticle.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

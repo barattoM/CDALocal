@@ -1,0 +1,166 @@
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ECF.exe
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ECF.deps.json
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ECF.runtimeconfig.json
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ECF.runtimeconfig.dev.json
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ECF.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ref\ECF.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ECF.pdb
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\AutoMapper.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Microsoft.OpenApi.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1701871\Desktop\7. GestionStocks\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.csproj.AssemblyReference.cache
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\Formulaires\FormulaireArticle.g.cs
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF_MarkupCompile.cache
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF_MarkupCompile.lref
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\App.baml
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\Formulaires\FormulaireArticle.baml
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.g.resources
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.AssemblyInfoInputs.cache
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.AssemblyInfo.cs
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.csproj.CoreCompileInputs.cache
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.csproj.CopyComplete
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.dll
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ref\ECF.dll
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.pdb
+C:\Users\1701871\Desktop\7. GestionStocks\obj\Debug\net5.0-windows\ECF.genruntimeconfig.cache
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\FormulaireMusicien.g.cs
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\ListeMusiciens.g.cs
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF_MarkupCompile.cache
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF_MarkupCompile.lref
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ECF.exe
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ECF.deps.json
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ECF.runtimeconfig.json
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ECF.runtimeconfig.dev.json
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ECF.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ref\ECF.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ECF.pdb
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\AutoMapper.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Microsoft.OpenApi.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1701871\Desktop\ECF\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\App.baml
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\FormulaireMusicien.baml
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\ListeMusiciens.baml
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.g.resources
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.AssemblyInfoInputs.cache
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.AssemblyInfo.cs
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.csproj.CoreCompileInputs.cache
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.csproj.CopyComplete
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.dll
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ref\ECF.dll
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.pdb
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\ECF.genruntimeconfig.cache
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\FormulaireGroupe.g.cs
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\ListeGroupes.g.cs
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\FormulaireGroupe.baml
+C:\Users\1701871\Desktop\ECF\obj\Debug\net5.0-windows\Formulaires\ListeGroupes.baml
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.csproj.AssemblyReference.cache
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\FormulaireGroupe.g.cs
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\FormulaireMusicien.g.cs
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\ListeGroupes.g.cs
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\ListeMusiciens.g.cs
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF_MarkupCompile.cache
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF_MarkupCompile.lref
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ref\ECF.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.pdb
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ECF.exe
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ECF.deps.json
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ECF.runtimeconfig.json
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ECF.runtimeconfig.dev.json
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ECF.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ref\ECF.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ECF.pdb
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\AutoMapper.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Microsoft.OpenApi.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\App.baml
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\FormulaireGroupe.baml
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\FormulaireMusicien.baml
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\ListeGroupes.baml
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\Formulaires\ListeMusiciens.baml
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.g.resources
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.AssemblyInfoInputs.cache
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.AssemblyInfo.cs
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.csproj.CoreCompileInputs.cache
+C:\Users\59011-07-02\Desktop\ECF - Squelette\obj\Debug\net5.0-windows\ECF.genruntimeconfig.cache
